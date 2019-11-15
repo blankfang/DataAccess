@@ -1,0 +1,11 @@
+E:\work\DataAccess\DataAccessTest\DataAccessTest\bin\Debug\DataAccessTest.exe.config
+E:\work\DataAccess\DataAccessTest\DataAccessTest\bin\Debug\DataAccessTest.exe
+E:\work\DataAccess\DataAccessTest\DataAccessTest\bin\Debug\DataAccessTest.pdb
+E:\work\DataAccess\DataAccessTest\DataAccessTest\bin\Debug\DataAccess.dll
+E:\work\DataAccess\DataAccessTest\DataAccessTest\bin\Debug\DataAccess.pdb
+E:\work\DataAccess\DataAccessTest\DataAccessTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\DataAccess\DataAccessTest\DataAccessTest\obj\x86\Debug\DataAccessTest.Form1.resources
+E:\work\DataAccess\DataAccessTest\DataAccessTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\work\DataAccess\DataAccessTest\DataAccessTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\work\DataAccess\DataAccessTest\DataAccessTest\obj\x86\Debug\DataAccessTest.exe
+E:\work\DataAccess\DataAccessTest\DataAccessTest\obj\x86\Debug\DataAccessTest.pdb

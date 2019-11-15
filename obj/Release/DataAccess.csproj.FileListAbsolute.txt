@@ -1,0 +1,6 @@
+D:\projects\DataAccess\bin\Release\DataAccess.dll.config
+D:\projects\DataAccess\bin\Release\DataAccess.dll
+D:\projects\DataAccess\bin\Release\DataAccess.pdb
+D:\projects\DataAccess\obj\Release\DataAccess.dll
+D:\projects\DataAccess\obj\Release\DataAccess.pdb
+D:\projects\DataAccess\obj\Release\ResolveAssemblyReference.cache
